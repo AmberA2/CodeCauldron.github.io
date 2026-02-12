@@ -9,7 +9,7 @@ This website will be my personal site. It will have an about me section, then ot
   - **Plan to be done with this phase by end of June / Early July if time permits**
 - Coding
   - Main languages: HTML5, JavaScript (react may be brought in as I want to learn it), CSS (bootstrap), May incorporate Node.js - undetermined as of now
-  - **Want to start this phase end of June / early July and hopefully get the main pages done by end of July so I can have something to start showing off**
+  - **Want to start this phase by May as current job and moving is taking up most of my time**
 - Deployment
   - I plan to deploy the site as soon as the first main pages are done. Will either be hosted on git or on AWS - links will be added here once that is decided
 
